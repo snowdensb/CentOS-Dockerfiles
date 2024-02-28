@@ -1,4 +1,4 @@
-FROM       centos:7
+FROM       centos:8
 MAINTAINER Dusty Mabe <dusty@dustymabe.com>
 
 # Update everything
