@@ -1,4 +1,4 @@
-FROM centos:7
+FROM centos:8
 MAINTAINER Mohammed Zeeshan Ahmed <moahmed@redhat.com>
 
 ENV PGWEB_VERSION "0.9.6"

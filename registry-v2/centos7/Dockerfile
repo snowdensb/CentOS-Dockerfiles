@@ -1,4 +1,4 @@
-FROM centos:7
+FROM centos:8
 MAINTAINER The CentOS Project <cloud-ops@centos.org>
 
 RUN yum -y install docker-distribution; yum clean all
